@@ -1,11 +1,7 @@
-= Recipes
-:reproducible:
+= Safe food ideas for picky eaters
+:toc: 
 
-:toc:
-(((AsciiDoc)))
-
-== Breakfast
-
+== Recipes
 === nurp's oatmeal recipe
 I make this for my baby since almost every night and she eats it while watching Bobo.
 
@@ -23,7 +19,7 @@ Put the oat and water in a pan, cover at medium heat (5 with electric stove). Wh
 When it's cooked, add a big pinch of cinnamon powder, banana, strawberry powder and walnut paste. Lastly pour a splash of milk to make it taste even milder. Serve warm.
 
 === fruit bar (riegel, fruchtbar)
-_recipe: https://www.azafran.de/blog/frucht-riegel-rezept.html_ +
+_recipe from: https://www.azafran.de/blog/frucht-riegel-rezept.html_ +
 _video: https://www.youtube.com/watch?v=gDNGbUPDtDk_
 
 _Ingredients_ +
@@ -38,4 +34,24 @@ _Ingredients_ +
 process cashews
 puree apricots and dates
 mix strawberry powder, cashews and puree. press between oblaten and cut. keep in fridge.
+
+=== red lentil soup
+_recipe from: Vegetarian cooking of the Mediterranean: from Gibraltar to Istanbul (1997) by Cornelia Schinharl page 36. (can be borrowed at onlinelibrary: https://openlibrary.org/books/OL1002510M/Vegetarian_cooking_of_the_Mediterranean)_
+
+I think this is the best red lentil soup!
+I don't use as much butter as in the recipe, and I add a bit olive oil. Because, why not.
+I also cook carrots and onions until their raw smell goes away (about 20 minutes simmer) and then add the lentils.
+
+_Ingredients_
+
+* 1 large onion
+* 2 carrots
+* 4 tbsp (60 g) butter
+* 200 g (1/2 lb) red lentils
+* 1 1/8 l (4 3/4 cups) vegetable stock
+* salt
+* freshly ground white pepper
+* lemon for serving
+
+_follow the library link for instructions_
 
