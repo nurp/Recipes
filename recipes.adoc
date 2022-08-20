@@ -79,3 +79,7 @@ _recipe from: https://fooby.ch/en/recipes/13853/ebly-risotto-with-porcini-mushro
 * salt and pepper to taste
 
 follow the link for the recipe
+
+=== Jacques Pepin's American style omelette
+_recipe from: https://www.youtube.com/watch?v=s10etP1p2bU_
+
