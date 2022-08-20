@@ -1,0 +1,41 @@
+= Recipes
+:reproducible:
+
+:toc:
+(((AsciiDoc)))
+
+== Breakfast
+
+=== nurp's oatmeal recipe
+I make this for my baby since almost every night and she eats it while watching Bobo.
+
+_Ingredients_ +
+
+* 1 tequila glass (60 ml) of steel cut oats
+* 2 tequila glass (120 ml) of water
+* 2 walnuts (shelled if possible), grind with a mortar and pestle well until you see the fat
+* pinch of cinnamon
+* splash of milk
+* 1/3rd of a banana, mash well with a fork so it tastes sweeter
+* (optional) 4-5 dried strawberry powder
+
+Put the oat and water in a pan, cover at medium heat (5 with electric stove). When it starts boiling, simmer on law (1.5 with electric stove) for 10 minutes. It should be a bit thick consistency for a splash of milk later. +
+When it's cooked, add a big pinch of cinnamon powder, banana, strawberry powder and walnut paste. Lastly pour a splash of milk to make it taste even milder. Serve warm.
+
+=== fruit bar (riegel, fruchtbar)
+_recipe: https://www.azafran.de/blog/frucht-riegel-rezept.html_ +
+_video: https://www.youtube.com/watch?v=gDNGbUPDtDk_
+
+_Ingredients_ +
+
+* 100 g Cashew nuts
+* 100 g soft dates (medjool)
+* 100 g sun dried apricots (dark ones)
+* 3 TBSP strawberry powder (make the powder from about 20 dried strawberries)
+* edible papers (oblaten)
+* _(optional) schredded coconut_
+
+process cashews
+puree apricots and dates
+mix strawberry powder, cashews and puree. press between oblaten and cut. keep in fridge.
+
